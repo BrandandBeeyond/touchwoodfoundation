@@ -101,7 +101,7 @@
 
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link mainlinks" href="#">get involved</a>
+                                <a class="nav-link mainlinks" href="getinvolved.php">get involved</a>
 
                             </li>
                             <li class="nav-item">

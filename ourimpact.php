@@ -125,45 +125,7 @@
 </div>
 
 
-<section class="py-5">
-      <div class="container">
-            <div class="section-title text-center">
-                  <h2 class="">Success Stories</h2>
-            </div>
-            <div class="row mt-5">
-                  <div class="owl-carousel owl-theme life on_projects">
-                        <div class="item">
-                              <div class="row  align-items-center">
-                                    <div class="col-md-6">
-                                          <div class="success_story">
-                                                <img src="" class="img-fluid" alt="">
-                                          </div>
-                                    </div>
-                                    <div class="col-md-6 col-sm-12 col-12">
 
-
-
-                                    </div>
-                              </div>
-                        </div>
-                        <div class="item">
-                              <div class="row  align-items-center">
-                                    <div class="col-md-6">
-                                          <div class="success_story">
-                                                <img src="" class="img-fluid" alt="">
-                                          </div>
-                                    </div>
-                                    <div class="col-md-6 col-sm-12 col-12">
-
-
-
-                                    </div>
-                              </div>
-                        </div>
-                  </div>
-            </div>
-      </div>
-</section>
 
 <section id="protfolio" class="gallery-section section-padding">
       <div class="container">
