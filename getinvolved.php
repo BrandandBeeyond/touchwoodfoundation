@@ -34,7 +34,7 @@
     </div>
 </div>
 
-<div class="features-area ">
+<div class="features-area py-5">
     <div class="container">
         <div class="row">
 
@@ -42,7 +42,8 @@
                 <div class="features-item-2 d-flex flex-row gap-4 p-3 h-100">
                     <div class="features-content">
                         <h3>Volunteer</h3>
-                        <p>Give your time, your talent, or just your listening heart. Your presence can be someone’s turning point.</p>
+                        <p>Give your time, your talent, or just your listening heart. Your presence can be someone’s
+                            turning point.</p>
                     </div>
                 </div>
             </div>
@@ -58,7 +59,8 @@
                 <div class="features-item-2 d-flex flex-row gap-4 p-3 h-100">
                     <div class="features-content">
                         <h3>CSR Collaborations</h3>
-                        <p>We align with corporate values to build programs that don’t just check boxes - but change lives.</p>
+                        <p>We align with corporate values to build programs that don’t just check boxes - but change
+                            lives.</p>
                     </div>
                 </div>
             </div>
@@ -67,13 +69,60 @@
     </div>
 </div>
 
+
+<section class="py-5">
+    <div class="container">
+        <div class="section-title-s3 section-title-s5 text-center">
+            <h2 class="text-center">"Giving is not about how much. It’s about how deeply."</h2>
+        </div>
+        <div class="row mt-5">
+
+            <div class="col-lg-6 col-md-6 col-sm-6 col-12">
+                <div class="features-item-2 d-flex flex-row gap-4 p-3 h-100">
+                    <div class="features-content">
+                        <h3>One-Time Donation </h3>
+                        <p>Fuel a child’s dream or support a woman’s new beginning.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 col-md-6 col-sm-6 col-12">
+                <div class="features-item-2 d-flex flex-row gap-4 p-3 h-100">
+                    <div class="features-content">
+                        <h3>Monthly Giving </h3>
+                        <p>Help us plan and sustain long-term impact.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 col-md-6 col-sm-6 col-12">
+                <div class="features-item-2 d-flex flex-row gap-4 p-3 h-100">
+                    <div class="features-content">
+                        <h3>Sponsor a Cause  </h3>
+                        <p>Fund a school kit, a health camp, or a livelihood program.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 col-md-6 col-sm-6 col-12">
+                <div class="features-item-2 d-flex flex-row gap-4 p-3 h-100">
+                    <div class="features-content">
+                        <h3>In-Kind Support</h3>
+                        <p>Give what you can - books, clothes, toys, food. It all matters.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
 <section class="contact-pg-contact-section section-padding">
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
                 <div class="contact-form-area">
-                    <div class="section-title-s3 section-title-s5">
-                        <h2>Join with us</h2>
+                    <div class="section-title-s3 section-title-s5 text-center">
+                        <h2 class="text-center">Join with us</h2>
                     </div>
                     <div class="contact-form">
                         <form method="post" class="contact-validation-active" id="contact-form">
@@ -115,7 +164,7 @@
 <?php include('footer.php') ?>
 
 <script>
-    $(document).ready(function() {
+    $(document).ready(function () {
         $(".on_projects").owlCarousel({
             items: 1,
             loop: true,

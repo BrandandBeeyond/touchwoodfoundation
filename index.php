@@ -425,48 +425,37 @@
             <span>Our Events</span>
             <h2>Upcoming Events</h2>
         </div>
-        <div class="row">
-            <div class="col col-xs-12">
-                <div class="event-grids clearfix">
-                    <div class="grid">
-                        <div class="img-holder">
-                            <img src="assets/images/event/img-1.jpg" alt>
+        <div class="row ">
+                  <div class="col-12 col-xs-12">
+                        <div class="event-grids clearfix">
+                              <div class="grid">
+                                    <div class="img-holder">
+                                          <img src="assets/images/event/img-1.jpg" alt="">
+                                    </div>
+                                    <div class="details">
+                                          <ul class="entry-meta">
+                                                <li><a href="#"><i class="fa-solid fa-calendar-days"></i> May 2025</a></li>
+                                                <li><a href="#"> Women Empowerment</a></li>
+                                          </ul>
+                                          <h3>Women Empowerment Camp</h3>
+                                    </div>
+                              </div>
+                              <div class="grid">
+                                    <div class="img-holder">
+                                          <img src="assets/images/event/img-2.jpg" alt="">
+                                    </div>
+                                    <div class="details">
+                                          <ul class="entry-meta">
+                                                <li><a href="#"><i class="fa-solid fa-calendar-days"></i> June 2025</a></li>
+                                                <li><a href="#"> Plantation</a></li>
+                                          </ul>
+                                          <h3><a href="event-single.html">Monsoon Plantation Drive</a></h3>
+                                    </div>
+                              </div>
+
                         </div>
-                        <div class="details">
-                            <ul class="entry-meta">
-                                <li><a href="#"><i class="ti-calendar"></i> 20 sep 2018</a></li>
-                                <li><a href="#"><i class="ti-folder"></i> Education</a></li>
-                            </ul>
-                            <h3><a href="event-single.html">Education for All Children</a></h3>
-                        </div>
-                    </div>
-                    <div class="grid">
-                        <div class="img-holder">
-                            <img src="assets/images/event/img-2.jpg" alt>
-                        </div>
-                        <div class="details">
-                            <ul class="entry-meta">
-                                <li><a href="#"><i class="ti-calendar"></i> 20 sep 2018</a></li>
-                                <li><a href="#"><i class="ti-folder"></i> Food</a></li>
-                            </ul>
-                            <h3><a href="event-single.html">Food for All Everyone</a></h3>
-                        </div>
-                    </div>
-                    <div class="grid">
-                        <div class="img-holder">
-                            <img src="assets/images/event/img-3.jpg" alt>
-                        </div>
-                        <div class="details">
-                            <ul class="entry-meta">
-                                <li><a href="#"><i class="ti-calendar"></i> 20 sep 2018</a></li>
-                                <li><a href="#"><i class="ti-folder"></i> Treatment</a></li>
-                            </ul>
-                            <h3><a href="event-single.html">Free Treatment</a></h3>
-                        </div>
-                    </div>
-                </div>
+                  </div>
             </div>
-        </div>
     </div> <!-- end container -->
 </section>
 <!-- end event-section -->
@@ -493,66 +482,39 @@
     <div class="container">
         <div class="col-l2">
             <div class="section-title text-center">
-                <span>From Our Blog</span>
-                <h2>Latest News</h2>
+                
+                <h2>Success stories</h2>
             </div>
         </div>
         <div class="row">
-            <div class="col col-xs-12">
-                <div class="blog-grids clearfix">
-                    <div class="grid">
-                        <div class="entry-media">
-                            <img src="assets/images/blog/1.jpg" alt="">
+        <div class="col-lg-6 frow">
+                        <div class="titem">
+                              
+                              <p>
+                                    “I never thought my daughter would go to school. Today, she teaches me English.”
+                              </p>
+                              <div class="author">
+                                    <div class="info">
+                                          <h4 class="client-name">Sunita, Rural Mother</h4>
+
+                                    </div>
+                              </div>
                         </div>
-                        <div class="details">
-                            <h3><a href="blog-single.html">Best and less published their supplier lists.</a></h3>
-                            <p>There are many variations of passages of Lorem Ipsum available, but the majority have
-                                suffered alteration.</p>
-                            <ul class="entry-meta">
-                                <li>
-                                    <img src="assets/images/blog/7.jpg" alt="">
-                                    By <a href="#">Lily Anne</a>
-                                </li>
-                                <li>Feb 12,2021</li>
-                            </ul>
+                  </div>
+                  <div class="col-lg-6 frow">
+                        <div class="titem">
+
+                                                            <p>
+                                    “After the stitching course, I started earning. I feel seen, valued, and strong.”
+                              </p>
+                              <div class="author">
+                                    <div class="info">
+                                          <h4 class="client-name">Meena, Women’s Workshop Participant</h4>
+
+                                    </div>
+                              </div>
                         </div>
-                    </div>
-                    <div class="grid">
-                        <div class="entry-media">
-                            <img src="assets/images/blog/2.jpg" alt="">
-                        </div>
-                        <div class="details">
-                            <h3><a href="blog-single.html">Best and less published their supplier lists.</a></h3>
-                            <p>There are many variations of passages of Lorem Ipsum available, but the majority have
-                                suffered alteration.</p>
-                            <ul class="entry-meta">
-                                <li>
-                                    <img src="assets/images/blog/7.jpg" alt="">
-                                    By <a href="#">Lily Anne</a>
-                                </li>
-                                <li>Feb 12,2021</li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="grid">
-                        <div class="entry-media">
-                            <img src="assets/images/blog/3.jpg" alt="">
-                        </div>
-                        <div class="details">
-                            <h3><a href="blog-single.html">Best and less published their supplier lists.</a></h3>
-                            <p>There are many variations of passages of Lorem Ipsum available, but the majority have
-                                suffered alteration.</p>
-                            <ul class="entry-meta">
-                                <li>
-                                    <img src="assets/images/blog/7.jpg" alt="">
-                                    By <a href="#">Lily Anne</a>
-                                </li>
-                                <li>Feb 12,2021</li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
+                  </div>
         </div>
     </div> <!-- end container -->
 </section>

@@ -77,7 +77,12 @@
 
 <div class="features-area ">
       <div class="container">
-            <div class="row">
+            <div class="info my-4">
+                  <h4 class="client-name text-center">Behind every initiative is a story of hope - and a heart like
+                        yours that made it possible.</h4>
+
+            </div>
+            <div class="row pt-5">
 
                   <div class="col-lg-4 col-md-6 col-sm-6">
                         <div class="features-item-2 d-flex flex-row gap-4 p-3">
@@ -115,13 +120,10 @@
                   </div>
 
             </div>
-            <div class="info my-4">
-            <h4 class="client-name">Behind every initiative is a story of hope - and a heart like yours that made it possible.</h4>
 
       </div>
-      </div>
 
-      
+
 </div>
 
 

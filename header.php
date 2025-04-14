@@ -9,7 +9,7 @@
     <title>Touchwood Foundation</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
     <link href="assets/css/themify-icons.css" rel="stylesheet">
- 
+
     <link href="assets/css/flaticon.css" rel="stylesheet">
     <link href="assets/css/bootstrap.min.css" rel="stylesheet">
     <link href="assets/css/animate.css" rel="stylesheet">
@@ -40,15 +40,38 @@
             letter-spacing: 0.3px;
             color: #f67d4a;
         }
-        .bg-main{
-            background-color:#f67d4a;
-        }
-        .sicon {
-        height: 75px;
-        width: auto;
-    }
-    </style>
 
+        .bg-main {
+            background-color: #f67d4a;
+        }
+
+        .sicon {
+            height: 75px;
+            width: auto;
+        }
+    </style>
+    <style>
+        .frow .titem {
+            background: #ffffff;
+            padding: 50px 37px 30px 37px;
+            box-shadow: 1px 4px 20px -2px rgba(0, 0, 0, 0.1);
+        }
+
+        .titem i {
+            font-size: 50px;
+            position: absolute;
+            left: 15px;
+            top: 23px;
+            opacity: 0.3;
+            transform: rotate(180deg);
+        }
+
+        .client-name {
+            color: #f67d4a !important;
+            font-weight: 400 !important;
+            font-size: 18px !important;
+        }
+    </style>
 
 </head>
 
@@ -62,11 +85,10 @@
                     stroke-linejoin="round" stroke-miterlimit="10"
                     d="M93.9,46.4c9.3,9.5,13.8,17.9,23.5,17.9s17.5-7.8,17.5-17.5s-7.8-17.6-17.5-17.5c-9.7,0.1-13.3,7.2-22.1,17.1 -8.9,8.8-15.7,17.9-25.4,17.9s-17.5-7.8-17.5-17.5s7.8-17.5,17.5-17.5S86.2,38.6,93.9,46.4z">
                 </path>
-                <<path id="outline" fill="none" stroke-width="5" stroke-linecap="round"
-    stroke-linejoin="round" stroke-miterlimit="10"
-    d="M93.9,46.4c9.3,9.5,13.8,17.9,23.5,17.9s17.5-7.8,17.5-17.5s-7.8-17.6-17.5-17.5c-9.7,0.1-13.3,7.2-22.1,17.1 
+                <<path id="outline" fill="none" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"
+                    stroke-miterlimit="10" d="M93.9,46.4c9.3,9.5,13.8,17.9,23.5,17.9s17.5-7.8,17.5-17.5s-7.8-17.6-17.5-17.5c-9.7,0.1-13.3,7.2-22.1,17.1 
     -8.9,8.8-15.7,17.9-25.4,17.9s-17.5-7.8-17.5-17.5s7.8-17.5,17.5-17.5S86.2,38.6,93.9,46.4z">
-</path>
+                    </path>
             </svg>
         </div>
         <!-- end preloader -->
@@ -104,10 +126,7 @@
                                 <a class="nav-link mainlinks" href="getinvolved.php">get involved</a>
 
                             </li>
-                            <li class="nav-item">
-                                <a class="nav-link mainlinks" href="donate.php">donate</a>
 
-                            </li>
                             <li class="nav-item">
                                 <a class="nav-link mainlinks" href="events.php">events</a>
 

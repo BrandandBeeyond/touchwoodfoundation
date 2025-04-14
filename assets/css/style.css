@@ -4900,6 +4900,8 @@ ul {
 
 .event-section .event-grids {
   margin: 0 -1px;
+  display: flex !important;
+  justify-content: center !important;
 }
 
 .event-section .event-grids .grid {

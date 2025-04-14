@@ -225,7 +225,7 @@ body.light-theme .news-letter-section form > div button {
 
 body.light-theme .tp-site-footer,
 body.light-theme .tp-site-footer {
-  background: #f4f8fc;
+  /* background: #f4f8fc; */
 }
 
 body.light-theme .tp-site-footer-2 {
@@ -237,7 +237,7 @@ body.light-theme .about-content a {
 
 body.light-theme .tp-site-footer p,
 body.light-theme .tp-site-footer li {
-  color: var(--dark-gray);
+  /* color: var(--dark-gray); */
 }
 
 body.light-theme .tp-site-footer-2 p,
@@ -247,7 +247,7 @@ body.light-theme .tp-site-footer-2 li {
 
 body.light-theme .tp-site-footer .widget-title h3,
 body.light-theme .tp-site-footer-2 .widget-title h3 {
-  color: var(--dark-gray);
+  /* color: var(--dark-gray); */
 }
 
 body.light-theme .tp-site-footer-2 .widget-title h3 {
@@ -264,7 +264,7 @@ body.light-theme .tp-site-footer-2 .about-widget ul a {
 
 body.light-theme .tp-site-footer .link-widget ul a,
 body.light-theme .tp-site-footer-2 .link-widget ul a {
-  color: var(--dark-gray);
+  /* color: var(--dark-gray); */
 }
 
 body.light-theme .tp-site-footer-2 .link-widget ul a {
